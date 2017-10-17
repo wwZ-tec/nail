@@ -10,4 +10,4 @@ This repo is a collection of **Sharp nails** applications and tools for develope
 
 [English](README.md) | [中文](README-zh.md)
 
-You may come across some non-English characters. Those apps don't have an English version yet, so you might want steer clear of them.
+You may come across some English characters. Those apps don't have an non-English version yet, so you might want steer clear of them.
